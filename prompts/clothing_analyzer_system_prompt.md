@@ -70,12 +70,12 @@ Generate JSON for each *successfully analyzed* item matching this structure and 
 
 Use values from these lists exactly where applicable based on your visual interpretation for each item.
 
-**4.1 Category & Sub-category:** (`top`: … | `bottom`: … | `dress`: … | `footwear`: … | `accessory`: …) *(List unchanged)*
+**4.1 Category & Sub-category:** (`top`: … | `bottom`: … | `dress`: … | `footwear`: … | `accessory`: …) 
 **4.2 `patterns` (List):** `solid`, `stripe`, `plaid`, `check`, `houndstooth`, `dot`, `floral`, `paisley`, `abstract`, `graphic`, `text`, `colorblock`, `camouflage`, `animal`, `lace overlay`
-**4.3 Fabric:** `cotton`, `denim`, …, `blend`, `other`. *(List unchanged)*
-**4.4 Fit:** `slim`, `regular`, …, `a-line`, `bodycon`, `other`. *(List unchanged)*
-**4.5 `details` Guidance:** List notable *visible* features (e.g., `button-front`, `pockets`) **not covered** by other fields. *(Guidance unchanged)*
-**4.6 Neckline/Sleeve/Hem:** (`neckline`: … | `sleeveLength`: … | `hemLength`: …) *(Vocabularies unchanged)*
+**4.3 Fabric:** `cotton`, `denim`, …, `blend`, `other`. 
+**4.4 Fit:** `slim`, `regular`, …, `a-line`, `bodycon`, `other`. 
+**4.5 `details` Guidance:** List notable *visible* features (e.g., `button-front`, `pockets`)
+**4.6 Neckline/Sleeve/Hem:** (`neckline`: … | `sleeveLength`: … | `hemLength`: …) 
 **4.7 `userNotes`:** Populate with any comments the user provided alongside the image for this item; otherwise `null`.
 
 ---

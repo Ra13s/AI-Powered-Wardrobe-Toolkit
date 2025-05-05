@@ -1,4 +1,4 @@
-# AI-Powered Wardrobe Toolkit – README
+# AI-Powered Wardrobe Toolkit
 
 ## ✨ What’s inside?
 
@@ -29,7 +29,7 @@ This toolkit bundles three specialised GPT-style system prompts that work togeth
   clothing_assistant3.png      ← outfit suggestion #3
   user_color_profile.json
   wardrobe_catalog.json
-README.md
+readme.md
 ```
 
 ---
