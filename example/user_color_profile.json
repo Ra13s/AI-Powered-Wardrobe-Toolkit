@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "skin": "#e3c0ad",
+    "hair": "#5a4330",
+    "eyes": "#7a5a30"
+  },
+  "palette": {
+    "face_brights": [
+      { "name": "Soft Ivory", "hex": "#F2E7D8" },
+      { "name": "Peach Blush", "hex": "#F6D0C0" },
+      { "name": "Salmon Rose", "hex": "#F4B8A4" },
+      { "name": "Light Coral", "hex": "#E9997A" },
+      { "name": "Dusty Apricot", "hex": "#D9916C" },
+      { "name": "Warm Clay", "hex": "#C67A55" }
+    ],
+    "everyday_neutrals": [
+      { "name": "Oatmeal", "hex": "#DDD0C0" },
+      { "name": "Warm Sand", "hex": "#C9B49D" },
+      { "name": "Taupe Grey", "hex": "#B0A297" },
+      { "name": "Driftwood", "hex": "#8C7563" },
+      { "name": "Soft Olive", "hex": "#9B9271" },
+      { "name": "Camel", "hex": "#B6854E" }
+    ],
+    "sharp_darks": [
+      { "name": "Espresso", "hex": "#3A2A1D" },
+      { "name": "Dark Olive", "hex": "#4A442C" },
+      { "name": "Chocolate", "hex": "#4E342E" },
+      { "name": "Charcoal Brown", "hex": "#4B4A46" },
+      { "name": "Deep Teal", "hex": "#20423A" },
+      { "name": "Ink Navy", "hex": "#21303D" }
+    ],
+    "power_pops": [
+      { "name": "Burnt Orange", "hex": "#C75B29" },
+      { "name": "Terracotta", "hex": "#B45A3C" },
+      { "name": "Warm Mustard", "hex": "#D9A441" },
+      { "name": "Teal Blue", "hex": "#2F6F71" },
+      { "name": "Forest Green", "hex": "#3B6A4C" },
+      { "name": "Raspberry", "hex": "#9C3E54" }
+    ],
+    "colour_cautions": [
+      { "name": "Neon Pink", "hex": "#FF4DA6" },
+      { "name": "Cool Fuchsia", "hex": "#C64193" },
+      { "name": "Icy Mint", "hex": "#D0F5F2" },
+      { "name": "Snow White", "hex": "#FFFFFF" },
+      { "name": "Jet Black", "hex": "#000000" },
+      { "name": "Royal Blue", "hex": "#004BFF" }
+    ]
+  },
+  "notes": "Muted warm-autumn hues echo your peachy skin and hazel eyes, adding gentle warmth and depth."
+}
