@@ -38,12 +38,14 @@ readme.md
 
 1. **Analyse your colouring**
 
-   *Set the system prompt to* `prompts/color_profile_assistant_system_prompt.md` *and upload your selfies (e.g. **`profile1.png`**, **`profile2.png`**).*
+   *Set the system prompt to* `prompts/color_profile_assistant_system_prompt.md` *and upload your selfies (e.g. **`profile1.png`**, **`profile2.png`**).*  
+   To get the best pictures try to take them in natural light or find the original product images with reverse image search using google.  
    The assistant returns a palette graphic and `user_color_profile.json`.
 
 2. **Build your digital wardrobe**
 
-   *Switch to* `prompts/clothing_analyzer_system_prompt.md`, *upload isolated garment shots (**`1.png`**, **`2.png`**, **`3.png`**, …) and accept merges into **`wardrobe_catalog.json`**.*
+   *Switch to* `prompts/clothing_analyzer_system_prompt.md`, *upload isolated garment shots (**`1.png`**, **`2.png`**, **`3.png`**, …).  
+   The assistant returns the described objects and the full wardrobe file `wardrobe_catalog.json`.  
 
 3. **Request outfit ideas**
 
