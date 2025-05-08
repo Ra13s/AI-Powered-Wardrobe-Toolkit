@@ -61,6 +61,8 @@ readme.md
 
    *Reply ****yes**** to any suggested look to see a visual composite, or ****no**** to iterate text‑only.*
 
+Note that, passing the whole wardrobe and profile json as text might work better since the LLM models can usually fit the whole thing in their context.
+
 ---
 
 ## 🖼️ Demo gallery (AI generated examples)
