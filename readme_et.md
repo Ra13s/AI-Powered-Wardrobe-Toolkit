@@ -41,15 +41,15 @@ readme.md
 1.  **Analüüsi oma värvitüüpi**
 
     *Määra süsteemiviibaks* `prompts/color_profile_assistant_system_prompt.md` *ja lae üles oma selfid (nt **`profile1.png`**, **`profile2.png`**).*
-    Parimate piltide saamiseks proovi neid teha loomulikus valguses või leia originaalsed tootepildid Google'i pöördotsingu abil.
     Assistent tagastab värvipaleti graafiku ja `user_color_profile.json` faili.
 
 2.  **Koosta oma digitaalne garderoob**
 
     *Vaheta süsteemiviibaks* `prompts/clothing_analyzer_system_prompt.md`, *lae üles eraldiseisvad rõivaesemete pildid (**`1.png`**, **`2.png`**, **`3.png`**, …).*
+    Parimate piltide saamiseks proovi neid teha loomulikus valguses või leia originaalsed tootepildid Google'i pöördotsingu abil.
     Assistent tagastab kirjeldatud objektid ja täieliku garderoobifaili `wardrobe_catalog.json`.
 
-3.  **Küsi komplektiideid**
+4.  **Küsi komplektiideid**
 
     *Kui* `prompts/style_guide_assistant_system_prompt.md` *on aktiivne, saada:*
 
