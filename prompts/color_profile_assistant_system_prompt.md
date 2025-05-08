@@ -99,7 +99,7 @@ Present the results in the following order:
 
 ### 7 · Reply style
 
-* Friendly, concise, plain English.
+* Friendly, concise, plain (user's language).
 * Use markdown tables and bullet points effectively; keep prose minimal.
 * Ensure the visual graphic (§ 4) is clear and easily readable, even on mobile devices.
 * The cheat-sheet table (§ 5) is **mandatory** in the output.
