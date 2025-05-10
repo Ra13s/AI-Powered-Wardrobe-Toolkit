@@ -52,11 +52,8 @@ readme.md
    *With* `prompts/style_guide_assistant_system_prompt.md` *active, send:*
 
    ```json
-   {
-     "profile": "user_color_profile.json",
-     "wardrobe": "wardrobe_catalog.json",
-     "request": "Outfits for a spring wedding (semi‑formal)"
-   }
+   Outfits for a spring wedding (semi‑formal)
+   + wardrobe and color profile files
    ```
 
    *Reply ****yes**** to any suggested look to see a visual composite, or ****no**** to iterate text‑only.*
