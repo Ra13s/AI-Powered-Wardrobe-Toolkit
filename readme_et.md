@@ -54,11 +54,8 @@ readme.md
     *Kui* `prompts/style_guide_assistant_system_prompt.md` *on aktiivne, saada:*
 
     ```json
-    {
-      "profiil": "user_color_profile.json",
-      "garderoob": "wardrobe_catalog.json",
-      "päring": "Komplektid kevadiseks pulmapeoks (poolformaalne)"
-    }
+    Komplektid kevadiseks pulmapeoks (poolformaalne), 
+    + garderoobi ja värviprofiili fail
     ```
 
     *Visuaalse koondi nägemiseks vasta soovitatud välimusele ****jah****, või tekstipõhiseks kordamiseks ****ei****.*
